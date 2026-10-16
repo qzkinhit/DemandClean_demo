@@ -1,5 +1,8 @@
 # DemandClean: A Multi-Objective Learning Framework for Balancing Model Tolerance to Data Authenticity and Diversity
 
+> **Notice: early demonstration prototype.** This repository holds the prototype behind our VLDB 2025 demonstration paper. It is an early system built to show the interface and the authenticity and diversity trade-off, and it is not the method of our full research paper. The full research paper, with the formal problem, the redesigned two-stage agent and the complete experimental study, is coming soon together with its own code release. Please do not use the numbers produced by this prototype as the results of DemandClean in comparisons. Cite and compare against the research paper once it is available.
+
+
 This repository contains the implementation for our paper:  
 **"DemandClean: A Multi-Objective Learning Framework for Balancing Model Tolerance to Data Authenticity and Diversity"**, which proposes a reinforcement learning-based framework to explore how machine learning models tolerate and respond to various types of data quality issues.
 
